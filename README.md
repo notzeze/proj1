@@ -1,2 +1,2 @@
 # proj1
-This is my first java project
+This is my first web development project
